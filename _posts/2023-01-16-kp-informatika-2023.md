@@ -76,7 +76,7 @@ author: Erwin - Koordinator KP 2023
                             <li>Untuk Penguji KP</li>
                             <li>Naik Ujian KP</li>
                         </ul>
-                        <li>Daftar Ulang ke Koordinator KP (Pak Erwin) dengan menunjukan slip bukti pembayaran KP.<a href="https://forms.gle/5cuNf1R2CYGniSvP6_xx" target="_blank">  LINK Registrasi Ulang</a></li>
+                        <li>Daftar Ulang ke Koordinator KP (Pak Erwin) dengan menunjukan slip bukti pembayaran KP.<a href="https://forms.gle/5cuNf1R2CYGniSvP6" target="_blank">  LINK Registrasi Ulang</a></li>
                     </ul>
 				</li>
                 <li>
@@ -266,7 +266,7 @@ author: Erwin - Koordinator KP 2023
 	</div>
 </div>
 
-<div class="text-muted mt-5 mb-5 text-center small">by : <a class="text-muted" target="_blank" href="">koordinator.kp2023.informatika@ummu.ac.id</a></div>
+<div class="text-muted mt-5 mb-5 text-center small">by : <a class="text-muted" target="_blank" href="">koordinator.kp2023</a></div>
 
 <!-- 
 END TIMELINE

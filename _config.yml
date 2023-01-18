@@ -4,7 +4,7 @@ tagline:             ''
 # tagline:             'Page Of KP 2023 Informatika UMMU'
 description:         'Halaman Informasi Untuk KP-2023 Prodi Informatika UMMU Ternate Malut.'
 url:                 https://infoummu.github.io/kp2023/
-baseurl:             ''
+baseurl:             '/kp2023/'
 paginate:            5
 # permalink:           pretty
 permalink:           /:title

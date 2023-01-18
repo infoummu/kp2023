@@ -14,29 +14,30 @@ author: Erwin - Koordinator KP 2023
       background: #d4d9df;
       display: inline-block;
       position: absolute;
-      left: 12px;
+      left: 14px;
       /* left: 30px; */
-      width: 2px;
+      width: 3px;
       height: 100%;
       z-index: 400;
   }
   ul.timeline > li {
-      margin: 5px 0;
+      margin: 10px 1px;
       padding-left: 5px;
     /*  margin: 20px 0;
         padding-left: 20px; */
   }
   ul.timeline > li:before {
       content: ' ';
+      /* background: white; */
       background: white;
       display: inline-block;
       position: absolute;
       border-radius: 50%;
-      border: 3px solid #22c0e8;
+      border: 5px solid #22c0e8;
       left: 2px;
       /* left: 20px; */
-      width: 20px;
-      height: 20px;
+      width: 22px;
+      height: 22px;
       z-index: 400;
   }
 </style>
@@ -87,7 +88,7 @@ author: Erwin - Koordinator KP 2023
                         <li>Jumlah kelompok kisaran n-nn Kelompok.</li>
                         <li>Setiap kelompok menunjuk seorang sebagai ketua kolompoknya masing-masing.</li>
                     </ul>
-                    <h4 id="info-1---desa-nama-desa-1">INFO-1 - Desa [<strong>NAMA-DESA 1</strong>]</h4>
+                    <h4 id="info-1">INFO-1 - Desa [<strong>NAMA-DESA 1</strong>]</h4>
                     <table>
                     <thead>
                         <tr>
@@ -114,7 +115,7 @@ author: Erwin - Koordinator KP 2023
                         </tr>
                     </tbody>
                     </table>
-                    <h4 id="info-n---desa-nama-desa-n">INFO-N - Desa [<strong>NAMA-DESA N</strong>]</h4>
+                    <h4 id="info-n">INFO-N - Desa [<strong>NAMA-DESA N</strong>]</h4>
                     <table>
                     <thead>
                         <tr>
@@ -268,12 +269,8 @@ author: Erwin - Koordinator KP 2023
 <div class="text-muted mt-5 mb-5 text-center small">by : <a class="text-muted" target="_blank" href="">koordinator.kp2023.informatika@ummu.ac.id</a></div>
 
 <!-- 
-
 END TIMELINE
  -->
-
-
-
 
 <!-- 
 BEGIN TIME LINE 

@@ -46,7 +46,7 @@ author: Erwin - Koordinator KP 2023
 	<div class="row">
 		<div class="col-md-6 offset-md-3X">
 			<h2>Alur KP 2023</h2>
-            <p>Berikut merupakan alur Kerja Praktik 2023 Mahasiswa Informatika UMMU yang rencananya dilaksanakan di Kabupaten Halmahera Timur (Haltim):</p>
+            <p>Berikut alur Kerja Praktik 2023 Mahasiswa Informatika UMMU yang rencana berlokasi di Kabupaten Halmahera Timur (Haltim):</p>
 			<ul class="timeline">
 				<li>
 					<h3>1. SURVEI LOKASI </h3>
